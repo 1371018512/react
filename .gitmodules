@@ -1,0 +1,3 @@
+[submodule "react-submodule-test"]
+	path = react-submodule-test
+	url = https://github.com/1371018512/react-submodule-test
